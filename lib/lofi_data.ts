@@ -13,9 +13,39 @@ import { Channel, SoundEffect } from '@/types/lofi'
 
 export const DEFAULT_CHANNELS: Channel[] = [
   {
-    name: 'Lofi Girl',
+    name: 'lofi hip hop radio',
     url: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
-    description: 'Beats to relax/study to',
+    description: 'beats to relax/study to',
+    creator: 'Lofi Girl',
+  },
+  {
+    name: 'lofi hip hop radio',
+    url: 'https://www.youtube.com/watch?v=28KRPhVzCus',
+    description: 'beats to sleep/chill to',
+    creator: 'Lofi Girl',
+  },
+  {
+    name: 'synthwave radio',
+    url: 'https://www.youtube.com/watch?v=4xDzrJKXOOY',
+    description: 'beats to chill/game to',
+    creator: 'Lofi Girl',
+  },
+  {
+    name: 'asian lofi radio',
+    url: 'https://www.youtube.com/watch?v=Na0w3Mz46GA',
+    description: 'beats to relax/study to',
+    creator: 'Lofi Girl',
+  },
+  {
+    name: 'dark ambient radio',
+    url: 'https://www.youtube.com/watch?v=S_MOd40zlYU',
+    description: 'music to escape/dream to',
+    creator: 'Lofi Girl',
+  },
+  {
+    name: 'beats to chill/study to',
+    url: 'https://www.youtube.com/watch?v=HuFYqnbVbzY',
+    description: 'beats to chill/study to',
     creator: 'Lofi Girl',
   },
   {
@@ -25,28 +55,10 @@ export const DEFAULT_CHANNELS: Channel[] = [
     creator: 'Chillhop Music',
   },
   {
-    name: 'Chilled Raccoon',
-    url: 'https://www.youtube.com/watch?v=7NOSDKb0HlU',
-    description: 'late night lofi mix',
-    creator: 'Chilled Raccoon',
-  },
-  {
-    name: 'Smooth Jazz',
-    url: 'https://www.youtube.com/watch?v=HhqWd3Axq9Y',
-    description: 'warm jazz music at coffee shop',
-    creator: 'Relax Jazz Cafe',
-  },
-  {
-    name: 'Tokyo night drive',
-    url: 'https://www.youtube.com/watch?v=Lcdi9O2XB4E',
-    description: 'lofi hiphop + chill + beats',
-    creator: 'Tokyo Tones',
-  },
-  {
-    name: 'Japan Cafe Vibe',
-    url: 'https://www.youtube.com/watch?v=bRnTGwCbr3E',
-    description: 'Lofi Music to sleep,relax,study...',
-    creator: 'Healing Me',
+    name: 'GHIBLI Jazz',
+    url: 'https://www.youtube.com/watch?v=7lq6e4Lu4B8',
+    description: 'jazzy/piano ghibli',
+    creator: 'Jazzne',
   },
 ]
 
