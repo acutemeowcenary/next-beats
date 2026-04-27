@@ -43,22 +43,16 @@ export const DEFAULT_CHANNELS: Channel[] = [
     creator: 'Lofi Girl',
   },
   {
-    name: 'beats to chill/study to',
+    name: 'jazz lofi radio',
     url: 'https://www.youtube.com/watch?v=HuFYqnbVbzY',
     description: 'beats to chill/study to',
     creator: 'Lofi Girl',
   },
   {
-    name: 'Chillhop Radio',
+    name: 'chillhop radio',
     url: 'https://www.youtube.com/watch?v=5yx6BWlEVcY',
     description: 'jazzy & lofi hip hop beats',
     creator: 'Chillhop Music',
-  },
-  {
-    name: 'GHIBLI Jazz',
-    url: 'https://www.youtube.com/watch?v=7lq6e4Lu4B8',
-    description: 'jazzy/piano ghibli',
-    creator: 'Jazzne',
   },
 ]
 
